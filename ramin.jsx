@@ -4,7 +4,8 @@ class ramin extends Component {
     render() {
         return (
             <div>
-                ramin
+                <h1>ramin</h1>
+                <h2>karimpor</h2>
             </div>
         );
     }
